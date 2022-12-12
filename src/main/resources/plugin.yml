@@ -1,0 +1,6 @@
+name: Plugin
+version: "1.0"
+main: com.example.plugin.MainPlugin
+api-version: 1.19
+description: Plugin Test
+author: Moi
